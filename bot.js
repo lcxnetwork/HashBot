@@ -178,7 +178,7 @@ bot.on('message', (user, userID, channelID, message, evt) => {
                     embed: {
                         color: 3066993,
                         thumbnail: {
-                            url: 'https://raw.githubusercontent.com/turtlecoin/turtlecoin.lol/master/images/favicons/apple-touch-icon-120x120.png',
+                            url: 'img/lcx.png',
                         },
                         fields: [{
                                 name: "Stats",
