@@ -1,6 +1,6 @@
 {
-  "name": "market-talk",
-  "version": "0.1.7",
+  "name": "hashbot",
+  "version": "0.1.0",
   "description": "Market Talk Bot for TurtleCoin",
   "main": "bot.js",
   "author": "ExtraHash",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ExtraHash/Market-Talk.git"
+    "url": "git+https://github.com/lcxnetwork/HashBot.git"
   },
   "keywords": [
     "market",
@@ -26,7 +26,7 @@
   ],
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/ExtraHash/Market-Talk/issues"
+    "url": "https://github.com/lcxnetwork/HashBot/issues"
   },
-  "homepage": "https://github.com/ExtraHash/Market-Talk#readme"
+  "homepage": "https://github.com/lcxnetwork/HashBot#readme"
 }
