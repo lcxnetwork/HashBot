@@ -178,7 +178,7 @@ bot.on('message', (user, userID, channelID, message, evt) => {
                     embed: {
                         color: 3066993,
                         thumbnail: {
-                            url: 'img/lcx.png',
+                            url: 'https://raw.githubusercontent.com/lcxnetwork/HashBot/master/img/lcx.png',
                         },
                         fields: [{
                                 name: "Stats",
