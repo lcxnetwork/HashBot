@@ -198,6 +198,14 @@ bot.on('message', (user, userID, channelID, message, evt) => {
             }
         }
 
+        if (cmd === 'price') {
+            console.log('** Price message sent');
+            bot.sendMessage({
+                to: channelID,
+                message: 'It\'s still OTC man you can ask for whatever price you want'
+            });
+        }
+
     }
 });
 
